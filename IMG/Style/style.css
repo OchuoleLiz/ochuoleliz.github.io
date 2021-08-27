@@ -1,0 +1,141 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.main-content {
+    margin: auto;
+    width: 80%;
+    text-align: justify;
+    flex-direction: column;
+}
+
+.intro {
+    padding-left: 80pt;
+    padding-left: 80pt;
+}
+.menu-image {
+    padding-left: 300pt;
+    padding-right: 150pt;
+}
+
+.biotitle {
+    padding-left: 300px;
+    padding-right: 100px;
+}
+
+h1 {
+    font-size: 40px;
+    color: pink;
+}
+
+.single3 {
+    color: pink;
+}
+
+.sometext {
+    color: pink;
+    font-size: 25px;
+    text-align: justify;
+    padding-left: 250px;
+    padding-right: 250px;
+    
+
+}
+.portrait {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.small-image {
+    display: flex;
+    justify-content: center;
+}
+
+.social-media {
+    margin: 30px 0;
+    padding-left: 350px;
+    padding-right: 300px;
+}
+
+.social-media .twitter {
+    padding: 0 30px;
+}
+
+.same-one {
+    text-align: center;
+}
+.same-one button {
+    background-color: black;
+    border: 1px solid whitesmoke;
+    padding: 10px 40px;
+    color: white;
+    margin-top: 100px;
+}
+.about {
+    display: flex;
+    column-gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.about-one {
+    width: 50%;
+    padding-top: 70px;
+}
+
+.about-two {
+    width: 50%;
+    padding-top: 80px;
+}
+
+.anotherone {
+    font-size: xx-large;
+    width: 60vw;
+    margin-left: 300px;
+    
+}
+
+.name-name {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.number {
+    color: whitesmoke;
+    font-size: 40pt;
+    padding-left: 500px;
+    padding-right: 450px;
+}
+
+.portfolio-image{
+    height: 250px;
+    width: 350px;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+
+p {
+    width: 55vw;
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+hr {
+    width: 50vw;
+}
+
+.button {
+    border: 3px;
+    border-color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 170;
+    background-color: black;
+  }
